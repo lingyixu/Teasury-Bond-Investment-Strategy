@@ -1,4 +1,5 @@
-# Fixed-Income-Analytics-Project
+# Teasury Bond Investment Strategy
+FINA2422, Fixed Income Analytics Project
 
 ## Goal:
 Developing a quantitative investment strategy for U.S. government bonds
