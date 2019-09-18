@@ -50,7 +50,7 @@ Evaluated by rolling window test with Ros².
 ![image](https://user-images.githubusercontent.com/35391238/65118885-a0b67500-d9b9-11e9-9391-175ea4fc13d5.png)
 
 * Let's make an investment!
-![image](https://user-images.githubusercontent.com/35391238/65118759-75cc2100-d9b9-11e9-9134-473e3c75e2f7.png)
+![image](https://user-images.githubusercontent.com/35391238/65119145-e7a46a80-d9b9-11e9-971d-1b0210a1e27b.png)
 
 
 ## Reference:
